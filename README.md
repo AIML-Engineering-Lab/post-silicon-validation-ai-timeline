@@ -105,6 +105,7 @@ That last row is the practical one. The stages that move fastest are exactly the
 
 - The dominant unknown is frontier model capability. If it plateaus, only the fast tier happens. If scaling continues, the medium tier compresses.
 - The slow tier is slow for legal and physical reasons. More capable models will not move it much.
+- **The entry path is the open question.** Junior engineers traditionally learn the domain in Layer 1, by grepping datalogs and running sweeps. If that layer shrinks, how the next generation is trained is genuinely unresolved. Entry may shift to supervising agents rather than doing the work, which trades learning speed for depth of intuition.
 - These are structural estimates derived from public industry dynamics. They are not internal data from any company, and no company is named or characterised in this analysis.
 - The percentages are illustrative. The ordering is the argument, not the decimals.
 
@@ -126,7 +127,9 @@ That last row is the practical one. The stages that move fastest are exactly the
 
 ### The video
 
-Sixteen lifecycle stages, each populated with ten pictograms. Human figures convert into AI agents as the horizon advances, and each agent keeps the colour of the generation it arrived in, so the colours accumulate rather than replace. A live three-layer panel shows AI absorbing execution, design and judgement at different rates.
+Sixteen lifecycle stages, each drawn as three layers. **Every stage holds exactly ten engineers at every horizon**, verified frame by frame across the whole runtime.
+
+As agents arrive, the engineers do not disappear. They slide upward out of execution into design and judgement, while agents fill the space beneath them. Each agent keeps the colour of the horizon it arrived in, so colour accumulates rather than replaces. The blocks get visibly fuller over time, not emptier: the same team, with far more capacity around it.
 
 Both the animation and the audio are generated procedurally. There is no video editor, no stock music and no external asset anywhere in the pipeline.
 
